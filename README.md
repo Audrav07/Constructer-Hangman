@@ -1,10 +1,10 @@
-## Flower Power Hangman
+# Flower Power Hangman
 
-# Overview
+## Overview
 
 Created a hangman command-line game using constructor functions.
 
-# Technologies Used
+## Technologies Used
 * Node.js
 * JavaScript
 * Npm inquirer
