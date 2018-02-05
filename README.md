@@ -1,6 +1,6 @@
 ## Flower Power Hangman
 
-#Overview
+# Overview
 
 Created a hangman command-line game using constructor functions.
 
